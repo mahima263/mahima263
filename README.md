@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mahima263/mahima263/blob/main/git.gif)
 <h1 align="center">Hi 👋, I'm Mahima Agarwal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coading" width="400" src="https://camo.githubusercontent.com/9fd375a38969a3113a0ff4d881571d542552157e5e22e03efe87652eebcc270d/68747470733a2f2f637574742e6c792f584e3443554645">
